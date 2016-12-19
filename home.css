@@ -262,6 +262,15 @@ progress::-moz-progress-bar {
     text-shadow: 4px 4px 4px green;
 		text-align:center;
 }
+
+.gallerytext
+{
+	font: 400 32px/1.2 'Merienda One';
+    color: #F85937;
+/*     text-shadow: 4px 4px 4px green; */
+		text-align:center;
+}
+
 .titletext
 {
 	font: 400 20px/1.2 'Merienda One';
@@ -283,14 +292,45 @@ progress::-moz-progress-bar {
 
 .pr
 {
-	font: 500 22px/1.4 'Gabriola';
+/* 	font: 500 22px/1.4 'Gabriola';
+    color: black; */
+	font: 400 16px/1.2 'Merienda One';
     color: black;
-	
+/*     text-shadow: 4px 4px 4px green; */
+/* 		text-align:center; */
+   
+}
+
+.contactus
+{
+/* 	font: 500 22px/1.4 'Gabriola';
+    color: black; */
+	font: 400 16px/1.2 'Merienda One';
+    color: black;
+/*     text-shadow: 4px 4px 4px green; */
+/* 		text-align:center; */
+   
+}
+
+.cpyright
+{
+/* 	font: 500 22px/1.4 'Gabriola';
+    color: black; */
+	font: 400 14px/1.2 'Merienda One';
+    color: black;
+/*     text-shadow: 4px 4px 4px green; */
+/* 		text-align:center; */
    
 }
 .prbox
 {
-	font: 500 22px/1.4 'Gabriola';
+	font: 500 22px/1.4 'Merienda One';
+    color: #F85937;	 
+}
+
+.satcharithabox
+{
+	font: 500 16px/1.4 'Merienda One';
     color: #F85937;	 
 }
 .fntclr

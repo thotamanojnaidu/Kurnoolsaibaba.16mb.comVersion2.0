@@ -16,6 +16,20 @@ body.hidden-scroll {
   z-index: 1006;
 }
 
+/* line 32, ../sass/demo.scss */
+/* .container .gallery a img {
+  float: left;
+  width: 20%;
+  height: 60%;
+  border: 2px solid #fff;
+  -webkit-transition: -webkit-transform .15s ease;
+  -moz-transition: -moz-transform .15s ease;
+  -o-transition: -o-transform .15s ease;
+  -ms-transition: -ms-transform .15s ease;
+  transition: transform .15s ease;
+  position: relative;
+} */
+
 /* line 15, ../sass/simplelightbox.scss */
 .sl-wrapper {
   z-index: 1000;
